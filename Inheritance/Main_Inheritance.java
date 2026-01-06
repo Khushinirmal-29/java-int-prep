@@ -1,3 +1,4 @@
+package Inheritance;
 class ClassyCar{
     String color;
     int speed;
